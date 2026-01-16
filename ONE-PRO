@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Offre Spéciale</title>
+
+<style>
+body{
+  font-family: Arial, sans-serif;
+  margin:0;
+  background:#f2f2f2;
+}
+.hero{
+  background:#111;
+  color:#fff;
+  padding:40px 20px;
+  text-align:center;
+}
+.hero h1{
+  font-size:28px;
+}
+.btn{
+  background:#ff5722;
+  color:#fff;
+  padding:15px 25px;
+  border:none;
+  border-radius:5px;
+  font-size:18px;
+}
+.section{
+  background:#fff;
+  margin:15px;
+  padding:25px;
+  border-radius:6px;
+}
+.price{
+  color:#e53935;
+  font-size:26px;
+  font-weight:bold;
+}
+.footer{
+  text-align:center;
+  font-size:13px;
+  padding:20px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>La solution simple à votre problème</h1>
+  <p>Qualité – Fiabilité – Résultat garanti</p>
+  <button class="btn">Commander maintenant</button>
+</div>
+
+<div class="section">
+  <h2>Pourquoi choisir ce produit ?</h2>
+  <p>✔️ Facile à utiliser</p>
+  <p>✔️ Résultat rapide</p>
+  <p>✔️ Livraison rapide</p>
+</div>
+
+<div class="section">
+  <h2>Offre du jour</h2>
+  <p class="price">4 900 DA</p>
+  <button class="btn">Je commande</button>
+</div>
+
+<div class="section">
+  <h2>Questions fréquentes</h2>
+  <p><b>Paiement :</b> à la livraison</p>
+  <p><b>Livraison :</b> 24 à 48h</p>
+</div>
+
+<div class="footer">
+  © 2026 – Tous droits réservés
+</div>
+
+</body>
+</html>
